@@ -34,4 +34,11 @@ subprojects {
   }
 }
 
+war{
+ archiveName = 'ROOT.war'
+ destinationDir = file('webapps')
+}
+
+jettyRunWar.contextPath = '' 
+
 
