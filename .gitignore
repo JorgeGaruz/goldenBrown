@@ -1,7 +1,9 @@
-/bin/
-/.classpath
 /.settings/
 /.gradle/
 /.project
-/build/
-/goldenBrown.iml
+/.classpath
+/.idea/
+/gradle/
+/gradlew
+/gradlew.bat
+/UrlShortener2014.iml
